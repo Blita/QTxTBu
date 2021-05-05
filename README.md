@@ -1,2 +1,3 @@
 # QTxTBu
-Real-time physical combat platform based on barrage control
+Real-time physical combat platform based on bullet-screen control
+--- --- 
